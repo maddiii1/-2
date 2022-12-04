@@ -40,7 +40,8 @@ else{
 //6 -> да
 //7 -> да
 //1 -> нет
-   
+
+/*
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
@@ -58,5 +59,5 @@ else
     }
     
 }
-
+*/
 
